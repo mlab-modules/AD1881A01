@@ -7,7 +7,7 @@ homepage: false
 images:
 - doc/img/AD1881A01A_QRcode.png
 mark: 50
-status: 0
+status: 4
 tags:
 - mlab
 - mlab-module

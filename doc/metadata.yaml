@@ -1,4 +1,5 @@
-description: null
+description: ' Module is audio in and audio out interface for development board NGW100
+  with processor ATMEL AVR32. It uses common codec AD1881A. '
 github_branch: AD1881A01A
 github_repo: AD1881A01
 github_url: https://github.com/mlab-modules/AD1881A01
@@ -10,4 +11,8 @@ status: 0
 tags:
 - mlab
 - mlab-module
+- audio-codec
+- mlab-audio
+- ad1881a
+- nggw100
 title: AD1881A01
